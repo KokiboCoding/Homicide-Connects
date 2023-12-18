@@ -1,0 +1,65 @@
+body {
+  background-color: #000;
+}
+
+.about {
+  text-align: center;
+  color: #fff;
+  padding: 15px;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+h1 {
+  color: #fff;
+  margin-top: 20px;
+  padding: 30px;
+  font-size: 35px;
+}
+
+h3 {
+  text-align: center;
+  color: #8b0000;
+  font-family: monospace;
+  font-size: 25px;
+}
+
+.case {
+  text-align: center;
+  color: #fff;
+  padding: 15px;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+button {
+  color: #000;
+  border-raidus: 10px;
+  background-color: #f5f0fe;
+  margin: 30px auto;
+  padding: 20px;
+  font-family: monospace;
+  font-size: 15px;
+  transition: all .3s;
+  display: block;
+}
+
+button:hover {
+  color: red;
+  background-color: #000;
+}
+
+img {
+  max-width: 70%;
+  margin: 0 auto;
+  padding: 30px;
+  display: block;
+}
+
+.more {
+  text-align: center;
+  color: #fff;
+  font-family: monospace;
+}
+
+/*# sourceMappingURL=index.4d663569.css.map */
